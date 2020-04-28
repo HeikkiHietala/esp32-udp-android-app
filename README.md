@@ -17,4 +17,4 @@ The purpose of this repo is to give you a working example of writing an Android 
 
 The other version, NO-OLED, uses a standard serial monitor to replicate the OLED display for those who use a regular ESP32.
 
-![alt text](http://url/to/img.png)
+![Parts of the system](/images/ESP32%20UDP%20motor%20servo%204.jpg)
