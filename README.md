@@ -9,6 +9,10 @@ https://www.sabulo.com/sb/esp32-development-board/using-the-udp-protocol-with-an
 
 https://www.sabulo.com/sb/esp32-development-board/using-the-udp-protocol-with-an-esp32-and-android-studio-part-2/
 
+https://www.sabulo.com/sb/esp32-development-board/using-the-udp-protocol-with-an-esp32-and-android-studio-part-3/
+
+https://www.sabulo.com/sb/esp32-development-board/using-the-udp-protocol-with-an-esp32-and-android-studio-part-4/
+
 The purpose of this repo is to give you a working example of writing an Android app to run an ESP32. My project is a small car that has a DC motor with a servo for steering. The ESP32 is equipped with a small OLED display so you can easily see what IP address to connect to, and which post to use. 
 
 The other version, NO-OLED, uses a standard serial monitor to replicate the OLED display for those who use a regular ESP32.
